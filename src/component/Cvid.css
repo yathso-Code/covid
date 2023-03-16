@@ -1,0 +1,22 @@
+.table_box{
+ 
+}
+.table{
+    width: 100%;
+    height: auto;
+}
+.table thead{
+    color: white;
+    background-color: black;
+}
+.table thead tr th{
+    padding: 5px 0;
+}
+.table tbody{
+   background-color: aliceblue;
+   
+}
+.table tbody tr th,td{
+ border-bottom: 1px solid black;
+ padding: 10px;
+}
